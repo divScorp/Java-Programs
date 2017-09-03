@@ -1,5 +1,10 @@
 import java.util.Scanner;
+/*       I/P - java is easy
+   	 o/p - java=2
+	       is=1
+	       easy=2
 
+*/
 public class CountVowel{
 	public static String[] split(String s){
 	  int c = 0;
