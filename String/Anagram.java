@@ -1,5 +1,11 @@
 package String;
-
+/*
+	An anagram of a string is another string that contains same characters,
+	only the order of characters can be different. 
+	for example -
+	"Mother in law" and "Hitler Woman" are anagram.
+	
+*/
 import java.util.Scanner;
 
 public class Anagram {
