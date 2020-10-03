@@ -1,4 +1,4 @@
-# Java Practice Programs 
+# Java Amazing Practice Programs 
 
 1. Basic Programs
 2. Math Programs, Bit Manipulation 
