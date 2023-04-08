@@ -2,7 +2,7 @@
 import java.util.Scanner;
 /**
  *
- * @author Vidhikara
+ * @author Divyanshu
  */
 public class sum_of_digit {
 
